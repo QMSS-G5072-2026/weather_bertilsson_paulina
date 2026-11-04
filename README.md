@@ -1,5 +1,7 @@
 # weather_pmb2170
 
+[![ci-cd](https://github.com/QMSS-G5072-2026/weather_bertilsson_paulina/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/QMSS-G5072-2026/weather_bertilsson_paulina/actions/workflows/ci-cd.yml)
+
 weather data cleaning and processing
 
 ## Installation
@@ -20,8 +22,8 @@ $ uv build                      # build the sdist and wheel into dist/
 ```
 
 ## Usage
-
-- TODO
+# python import pmb2170_weather
+# weather celsius to farenheit 68.0
 
 ## Contributing
 
