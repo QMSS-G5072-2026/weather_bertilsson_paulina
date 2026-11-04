@@ -1,6 +1,6 @@
 [project]
 name = "weather_pmb2170"
-version = "0.1.0"
+version = "0.1.1"
 description = "weather data cleaning and processing"
 readme = "README.md"
 authors = [{ name = "Paulina Bertilsson", email = "pmb2170@columbia.edu" }]
